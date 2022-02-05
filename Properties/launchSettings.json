@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MartinezClipping": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\tests\\Fig16-P.poly .\\tests\\Fig16-Q.poly .\\tests\\results\\Fig16-R.poly",
+      "workingDirectory": "C:\\Users\\Familie\\Documents\\Programming\\GIT\\MartinezClipping",
+      "hotReloadEnabled": true
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "FileVersion": 2,
+  "Id": "048a3793-32e3-4442-bea5-cea9ba4b501d",
+  "Items": [
+    {
+      "Id": "a9fa2bba-ade1-4d99-922a-8b1bdd4c995b",
+      "Command": "-union .\\tests\\A.poly .\\tests\\B.poly .\\tests.\\results\\A+B.poly"
+    },
+    {
+      "Id": "27da9fe6-2600-4f2b-a52a-10285a4ebabc",
+      "Command": "-union .\\tests\\ChessBoard4-P.poly .\\tests\\ChessBoard4-Q.poly .\\tests.\\results\\ChessBoard4-R.poly"
+    },
+    {
+      "Id": "ea2c7acc-5f4e-455e-9c5e-97ef10e62ea2",
+      "Command": "-union .\\tests\\49.poly .\\tests\\56.poly .\\tests.\\results\\49+56.poly"
+    },
+    {
+      "Id": "2f8523da-79bc-45ec-8603-d4594ce2c625",
+      "Command": "-union .\\tests\\results\\49+56.poly .\\tests\\51.poly .\\tests.\\results\\49+56+51.poly"
+    },
+    {
+      "Id": "f220b719-0184-4e3e-9bae-928c6858d6c5",
+      "Command": ".\\tests\\Fig8-P.poly .\\tests\\Fig8-Q.poly .\\tests\\results\\Fig8-R.poly"
+    },
+    {
+      "Id": "c25bef66-6ce3-42d8-ae02-659dd6621a4b",
+      "Command": ".\\tests\\Fig16-P.poly .\\tests\\Fig16-Q.poly .\\tests\\results\\Fig16-R.poly"
+    },
+    {
+      "Id": "13edad85-2ea0-4d51-9a25-4ab3b7212706",
+      "Command": ".\\tests\\Fig16-P.poly .\\tests\\Fig16-Qb.poly .\\tests\\results\\Fig16-R.poly"
+    }
+  ]
+}
